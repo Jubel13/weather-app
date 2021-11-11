@@ -24,7 +24,8 @@ const forecast = (lat, long, callback) => {
           " fahrenheit degrees. The local time is " +
           body.location.localtime +
           ". The humidity is " +
-          body.current.humidity
+          body.current.humidity +
+          " %."
       );
     }
   });
