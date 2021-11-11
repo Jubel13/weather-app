@@ -19,11 +19,12 @@ const forecast = (lat, long, callback) => {
         body.current.weather_descriptions[0] +
           ". It is currently " +
           body.current.temperature +
-          " degree, but it feels like " +
+          " fahrenheit degrees, but it feels like " +
           body.current.feelslike +
-          " degrees. The local time is " +
+          " fahrenheit degrees. The local time is " +
           body.location.localtime +
-          "."
+          ". The humidity is " +
+          body.current.humidity
       );
     }
   });
