@@ -7,4 +7,6 @@ To run this app on your machine, clone or download from the main branch, and the
 
 To view this app, go to: https://sinaga-weather-app.herokuapp.com/
 
-In `src` folder, in `utils` folder, you need to provide your access token from mapbox.com for `geocode.js` file and weatherstack.com for `forecast.js`
+In `src` folder, in `utils` folder, you need to provide your access token from mapbox.com for `geocode.js` file and access key from weatherstack.com for `forecast.js`.
+
+Change my access_token and access_key with your token and key. You need to create account for both sites. Read the documentation provided by those sites.
