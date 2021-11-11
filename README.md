@@ -5,6 +5,8 @@ This is simple note-taking app, from udemy course: <a href="https://www.udemy.co
 
 To run this app on your machine, clone or download from the main branch, and then run `npm install` on terminal
 
+Then, run `npm run start` to start the application using node command or `npm run dev` to start the app using nodemon.
+
 To view this app, go to: https://sinaga-weather-app.herokuapp.com/
 
 In `src` folder, in `utils` folder, you need to provide your access token from https://www.mapbox.com for `geocode.js` file and access key from https://www.weatherstack.com for `forecast.js`.
