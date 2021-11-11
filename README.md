@@ -1,7 +1,7 @@
 # Project Description
 
 ## weather-app
-This is simple note-taking app, from udemy course: <a href="https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course (3rd Edition).</a>
+This is simple weather app, from udemy course: <a href="https://www.udemy.com/course/the-complete-nodejs-developer-course-2/">The Complete Node.js Developer Course (3rd Edition).</a>
 
 To run this app on your machine, clone or download from the main branch, and then run `npm install` on terminal
 
